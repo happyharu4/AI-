@@ -5,3 +5,5 @@ https://github.com/happyharu4/AI-/blob/master/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%
 https://github.com/happyharu4/AI-/blob/master/2%EC%A3%BC%EC%B0%A8%EA%B3%BC%EC%A0%9C.ipynb
 ## 3주차 과제 
 https://github.com/happyharu4/AI-/blob/master/3%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb
+## 4주차 과제
+https://github.com/happyharu4/AI-/blob/master/4%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb
